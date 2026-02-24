@@ -47,3 +47,5 @@ for i in range(operaciones):
         print("Opción inválida")
 
 print("\nGracias :D")
+
+print ("Tengo hambre")
